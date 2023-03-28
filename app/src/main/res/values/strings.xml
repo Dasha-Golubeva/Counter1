@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="app_name2">Приложение счетчик</string>
+    <string name="button_name">Жмякни сюда</string>
+</resources>
