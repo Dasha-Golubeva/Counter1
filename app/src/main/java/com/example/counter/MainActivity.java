@@ -69,6 +69,8 @@ public class MainActivity extends AppCompatActivity {
         super.onResume();
         Toast toast = Toast.makeText(getApplicationContext(), "onResume()", Toast.LENGTH_SHORT);
         toast.show();
+        textCount.setText(Integer.toString(count));
+
     }
 
 
